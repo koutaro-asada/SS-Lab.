@@ -233,8 +233,8 @@ header nav ul li:hover a {
 }
 /* メイン用 */
 #mainimage {
-  width: 960px;
-  height: 300px;
+  width: 950px;
+  height: 290px;
   margin: 20px 0 20px 0;
   border: 5px solid #fff;
 }
